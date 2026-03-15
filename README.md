@@ -198,3 +198,9 @@ pip install mmsegmentation mmengine mmcv tifffile
 | 2 | 굴뚝 높이 추정 | ConvNeXt-Tiny + ROIAlign + CrossAttn | RMSE=4.939m, MAPE=2.90% |
 | 3 | 산업단지 분할 | SegFormer MiT-B5 | mIoU=98.57 |
 | 4 | 멀티모달 산업단지 분할 | CMNeXt + MiT-B5 | mIoU=98.85 |
+
+---
+
+## Contributors
+
+- Taegeon Ahn (@ahn-taegeon)
