@@ -1,0 +1,5 @@
+torch==2.8.0+cu128
+torchvision==0.21.0
+ultralytics==8.3.198
+numpy
+Pillow
